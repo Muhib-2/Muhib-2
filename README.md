@@ -61,11 +61,11 @@ class FullStackDeveloper {
 
 <div align="center">
 
-### � CORE TECHNOLOGIES
+### 🔥 CORE TECHNOLOGIES
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,python,javascript,typescript&theme=dark&perline=8" />
 
-### � DATA & STORAGE
+### 💾 DATA & STORAGE
 
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase,redis,sqlite&theme=dark&perline=6" />
 
@@ -85,14 +85,15 @@ class FullStackDeveloper {
 
 <div align="center">
 
-### � REAL-TIME STATISTICS
+### 📈 REAL-TIME STATISTICS
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muhib-2&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF006E&icon_color=FF006E&text_color=ffffff&count_private=true&include_all_commits=true" />
-<img width="48%" src="https://github-readme-streak-stats.demolab.com?user=Muhib-2&theme=radical&hide_border=true&background=0d1117&stroke=FF006E&ring=FF006E&fire=FF006E&currStreakNum=FF006E&sideNums=FF006E&currStreakLabel=FF006E&sideLabels=FF006E&dates=ffffff" />
 
 ### 💻 LANGUAGE DISTRIBUTION
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhib-2&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF006E&text_color=ffffff&langs_count=10" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhib-2&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF006E&text_color=ffffff&langs_count=10" />
+
+</div>
 
 ---
 
@@ -119,14 +120,30 @@ class FullStackDeveloper {
 
 ---
 
-## 🤝 LET'S COLLABORATE
+## 🚀 WHAT'S NEXT?
 
 <div align="center">
 
-[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-FF006E?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/Muhib-2)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-8338EC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhib-2)
-[![Let's Connect](https://img.shields.io/badge/Let's-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhib-nabil-ali-mohsen)
-[![Mentoring](https://img.shields.io/badge/Mentoring-Available-FF006E?style=for-the-badge&logo=book&logoColor=white)](https://github.com/Muhib-2)
+### 💼 Open to Opportunities
+
+I'm actively looking for exciting projects and collaborations. Whether it's building scalable applications, contributing to open source, or mentoring developers - let's create something amazing together!
+
+### 🎯 My Focus Areas
+
+- **Full-Stack Development** | **Cloud Architecture** | **System Design**
+- **Open Source Contribution** | **Technical Mentoring** | **Innovation**
+
+### 📞 Let's Connect
+
+<a href="https://linkedin.com/in/muhib-nabil-ali-mohsen">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:muhib.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Muhib-2">
+  <img src="https://img.shields.io/badge/GitHub-Follow-FF006E?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
