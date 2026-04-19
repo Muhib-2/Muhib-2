@@ -12,3 +12,5 @@ I enjoy building responsive and user-friendly web applications using modern tech
 Currently improving my skills through hands-on projects and continuous learning.
 --- 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhib-2&show_icons=true&theme=transparent)
+ 
+ [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Muhib-2)](https://github.com/Muhib-2/github-readme-stats)
