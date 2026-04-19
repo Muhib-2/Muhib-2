@@ -13,9 +13,9 @@ Currently improving my skills through hands-on projects and continuous learning.
 --- 
 
 
+[![Keep Al-Bukhary Growing](https://img.shields.io/badge/Cooperate-With_Us-brightgreen?style=for-the-badge&logo=github)](https://github.com/alazabmohamed/Muhib-2/issues)
 
 
-## Skills
 
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=python,java,js,php,cpp,c,ts,dart" />
@@ -50,3 +50,13 @@ Currently improving my skills through hands-on projects and continuous learning.
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&left=true&vCenter=true&width=800&height=60&duration=6000&lines=I'm+always+open+to+collaboration!;Let's+build+something+amazing+together!;" />
 </div>
+
+  <br/>
+### 📈 My Cooperation Timeline
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhib-2&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cooperation_Active_Since-April_2026-green?style=for-the-badge&logo=github" />
+</p>
+
