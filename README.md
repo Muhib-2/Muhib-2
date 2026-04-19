@@ -27,7 +27,7 @@ Currently improving my skills through hands-on projects and continuous learning.
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite" />
 
 ### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,azure,linux,bash" />
+<img src="https://skillicons.dev/icons?i=aws,azure,linux,bash,vercel" />
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,figma,docker" />
