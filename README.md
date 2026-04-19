@@ -11,36 +11,10 @@ I am a Computer Science student focused on full-stack web development.
 I enjoy building responsive and user-friendly web applications using modern technologies.  
 Currently improving my skills through hands-on projects and continuous learning.
 --- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhib-2&show_icons=true&theme=transparent)
- 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Muhib-2)](https://github.com/Muhib-2/github-readme-stats)
 
 
-name: Update README cards
 
-on:
-  schedule:
-    - cron: "0 3 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit cards
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git push
+<p align="center">
+  <img width="400" height="195" src="https://github-readme-stats.vercel.app/api?username=Muhib-2&count_private=true&hide_border=true&bg_color=00000000&title_color=2f80ed&icon_color=2f80ed&text_color=777777"/>
+  <img width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhib-2&layout=compact&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=777777"/>
+</p>
