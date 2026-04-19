@@ -20,44 +20,55 @@
 
 ## 🎯 ABOUT ME
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="center">
 
-```typescript
-class FullStackDeveloper {
-  name: string = "Muhib Nabil Ali Mohsen";
-  role: string = "Full-Stack Developer & Tech Innovator";
-  location: string = "Yemen 🇾🇪";
-  passion: string = "Building scalable, beautiful web experiences";
-  
-  expertise = {
-    frontend: ["React", "Next.js", "Vue.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Django", "Express", "Flask", "FastAPI"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase", "Redis"],
-    cloud: ["AWS", "Azure", "Vercel", "Docker", "Kubernetes"],
-    tools: ["Git", "Linux", "Figma", "Postman", "Jenkins"]
-  };
-  
-  currentFocus: string[] = [
-    "Microservices Architecture",
-    "Cloud-Native Development",
-    "System Design",
-    "Performance Optimization"
-  ];
-  
-  constructor() {
-    this.code();
-    this.learn();
-    this.innovate();
-    this.inspire();
-  }
-}
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF006E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhib+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Building+Amazing+Things+%E2%9C%A8" alt="Typing SVG" />
+
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 🚀 Who Am I?
+
+```javascript
+const muhib = {
+    location: "Yemen 🇾🇪",
+    role: "Full-Stack Developer",
+    passion: "Turning ideas into reality",
+    
+    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    technologies: {
+        frontend: ["React", "Next.js", "Vue.js"],
+        backend: ["Node.js", "Django", "Express"],
+        cloud: ["AWS", "Azure", "Docker"],
+        databases: ["PostgreSQL", "MongoDB", "Redis"]
+    },
+    
+    currentlyLearning: "Microservices & System Design",
+    funFact: "I debug with console.log() 🐛"
+};
 ```
+
+### 💡 What I'm Up To
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 <br clear="both">
 
 ---
 
 ## 🛠️ TECH STACK
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+</div>
 
 <div align="center">
 
@@ -77,6 +88,8 @@ class FullStackDeveloper {
 
 <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,postman,bash&theme=dark&perline=6" />
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 </div>
 
 ---
@@ -95,18 +108,7 @@ class FullStackDeveloper {
 
 </div>
 
----
 
-## 🌐 CONNECT WITH ME
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhib-nabil-ali-mohsen)
-[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Work-FF006E?style=for-the-badge&logo=firefox&logoColor=white)](https://muhib-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhib.dev@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muhib_dev)
-
-</div>
 
 ---
 
@@ -124,41 +126,39 @@ class FullStackDeveloper {
 
 <div align="center">
 
-### 💼 Open to Opportunities
+```diff
++ Open to new opportunities and collaborations
++ Building the future, one commit at a time
+```
 
-I'm actively looking for exciting projects and collaborations. Whether it's building scalable applications, contributing to open source, or mentoring developers - let's create something amazing together!
-
-### 🎯 My Focus Areas
-
-- **Full-Stack Development** | **Cloud Architecture** | **System Design**
-- **Open Source Contribution** | **Technical Mentoring** | **Innovation**
-
-### 📞 Let's Connect
-
-<a href="https://linkedin.com/in/muhib-nabil-ali-mohsen">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:muhib.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/Muhib-2">
-  <img src="https://img.shields.io/badge/GitHub-Follow-FF006E?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
+**💡 Interested in:** Full-Stack Development • Cloud Architecture • Open Source
 
 ---
+
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhib-nabil-ali-mohsen)
+[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Work-FF006E?style=for-the-badge&logo=firefox&logoColor=white)](https://muhib-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhib.dev@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muhib_dev)
+
+</div>
 
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,100:8338EC&height=250&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=70)
 
 </div>
+---
 
 <div align="center">
 
 ### 🎯 "Code is the poetry of logic, and debugging is the art of discovery" 🎯
 
-**Made with ❤️ and lots of ☕ | Last Updated: January 2025**
+![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202025-FF006E?style=flat-square)
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-FF006E?style=flat-square)
 
 </div>
