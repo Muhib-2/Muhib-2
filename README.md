@@ -14,7 +14,6 @@ Currently improving my skills through hands-on projects and continuous learning.
 
 
 
-<p align="center">
-  <img width="400" height="195" src="https://github-readme-stats.vercel.app/api?username=Muhib-2&count_private=true&hide_border=true&bg_color=00000000&title_color=2f80ed&icon_color=2f80ed&text_color=777777"/>
-  <img width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhib-2&layout=compact&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=777777"/>
-</p>
+<img alt="my stats" align="left" height="140" src="https://github-readme-stats.vercel.app/api?username=Muhib-2"/>
+
+<img alt="top langs" align="left" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhib-2&layout=compact"/>
