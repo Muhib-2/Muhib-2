@@ -141,9 +141,9 @@ const muhib = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhib-nabil/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Work-FF006E?style=for-the-badge&logo=firefox&logoColor=white)](https://muhib-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhib.dev@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muhib_dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Work-FF006E?style=for-the-badge&logo=firefox&logoColor=white)](https://muhib-portfolio-five.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](muhibnabil7@gmail.com)
+
 
 </div>
 
@@ -158,7 +158,7 @@ const muhib = {
 
 ### 🎯 "Code is the poetry of logic, and debugging is the art of discovery" 🎯
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202025-FF006E?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202026-FF006E?style=flat-square)
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-FF006E?style=flat-square)
 
 </div>
