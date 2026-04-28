@@ -140,7 +140,7 @@ const muhib = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhib-nabil-ali-mohsen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhib-nabil)
 [![Portfolio](https://img.shields.io/badge/Portfolio-My%20Work-FF006E?style=for-the-badge&logo=firefox&logoColor=white)](https://muhib-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhib.dev@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muhib_dev)
